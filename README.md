@@ -1,6 +1,5 @@
 # Vendor-Performance-Procurement-Analysis
 
-# Vendor Performance & Inventory Analytics
 
 ## 📌 Project Overview
 
